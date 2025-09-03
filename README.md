@@ -1,6 +1,6 @@
 # Data Analysis Notebooks  
 
-Ce dépôt regroupe plusieurs travaux pratiques d’analyse de données réalisés en Python dans le cadre de mon Master Informatique – spécialisation Data Science.  
+Ce dépôt regroupe plusieurs travaux pratiques d’analyse de données réalisés en Python dans le cadre de l'UE analyse de données.  
 L’objectif est de manipuler différents jeux de données pour appliquer les méthodes fondamentales de l’analyse exploratoire et de l’apprentissage automatique.  
 
 ## Technologies utilisées
